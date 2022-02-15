@@ -1,5 +1,5 @@
 # 2048  
-here have a 2048 game  
+here have a hacked 2048 game (easier version)  
 i didnt make, i just stole the code from somewhere(i forgor) and uploaded it here  
   
 # run in browser
